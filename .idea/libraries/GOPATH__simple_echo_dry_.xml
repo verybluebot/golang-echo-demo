@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;simple_echo_dry&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../yopto/photo-album-server/src/main" />
+      <root url="file://$PROJECT_DIR$/../../yopto/photo-album-server/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../yopto/photo-album-server/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
